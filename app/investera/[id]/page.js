@@ -3,6 +3,7 @@ import Link from "next/link";
 import { isExpired, interestDisplay, numberDisplay } from "@/utils/format";
 import Countdown from "@/utils/components/Countdown";
 import { redirect } from "next/navigation";
+import ShareBox from "@/utils/components/ShareBox";
 
 const fetchLoan = async (id) => {
   const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/loans/${id}`);
@@ -17,7 +18,20 @@ const fetchLoan = async (id) => {
 export async function generateMetadata({params}) {
   const { id } = await params;
   const loan = await fetchLoan(id);
-  return {title: loan.title}
+  return { 
+    title: loan.title,
+    openGraph: {
+      title: loan.title,
+      type: 'website',
+      url: `${process.env.NEXT_PUBLIC_BASE_URL}/investera/${id}`,
+      description: loan.subtitle,
+      images: [{
+        url: loan.images[0],
+        width: 360,
+        height: 280
+      }],
+    }
+  }
 }
 
 export default async function Content({params}) {
@@ -31,7 +45,7 @@ export default async function Content({params}) {
           <div className="col-md-8">
             <h1 className="mb-4">{loan.title}</h1>
             <div id="slider" className="carousel slide carousel-fade w-100" data-bs-ride="carousel">
-              <div className="carousel-inner rounded-4" style={{ height: "585px" }}>
+              <div className="carousel-inner rounded-4">
                 <Link href="#" className="btn btn-success d-flex align-items-center gap-2 position-absolute z-2">
                   <svg width="17" height="12" viewBox="0 0 17 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.9553 11L10.2701 10.3281L14.2997 6.46875H1V5.53125H14.2997L10.2701 1.67188L10.9553 1L16.1758 6L10.9553 11Z" fill="currentColor" stroke="currentColor"/>
@@ -39,7 +53,7 @@ export default async function Content({params}) {
                   <small>Öppna konto</small>
                 </Link>
                 {loan.images.map((item, i) => (
-                  <div key={i} className={`carousel-item h-100 ${i === 0 ? "active" : ""}`}>
+                  <div key={i} className={`carousel-item ${i === 0 ? "active" : ""}`} style={{ height: "0 !important", padding: "0 0 77.80%" }}>
                     <Image 
                       src={item} 
                       className="object-fit-cover" 
@@ -103,20 +117,7 @@ export default async function Content({params}) {
                 Investera
               </Link>
               <p className="m-0">För att kunna investera behöver du öppna ett konto hos Gårdskapital. Är du redan registrerad? <Link className="text-decoration-underline" style={{ color: "currentcolor" }} href="#">Logga in här.</Link></p>
-              <div className="d-flex gap-3">
-                <Link href="#" className="text-primary fs-2">
-                  <i className="bi bi-share-fill"></i>
-                </Link>
-                <Link href="#" className="text-primary fs-2">
-                  <i className="bi bi-facebook"></i>
-                </Link>
-                <Link href="#" className="text-primary fs-2">
-                  <i className="bi bi-twitter"></i>
-                </Link>
-                <Link href="#" className="text-primary fs-2">
-                  <i className="bi bi-linkedin"></i>
-                </Link>
-              </div>
+              <ShareBox title={loan.title} id={id} />
             </div>
           </div>
         </div>

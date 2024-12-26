@@ -16,13 +16,15 @@ export default function ImageText({image, title, text, link}) {
                 />
                 <div className="row position-relative gap-3 gap-md-0">
                     <div className="col-md-6 d-flex align-items-center">
+                        <div className="position-relative w-100" style={{ height: "0 !important", padding: "0 0 77.55%" }}>
                         <Image 
                             src={image} 
-                            className="rounded-4 object-fit-cover w-100 h-auto" 
+                            className="rounded-4 object-fit-cover" 
                             alt="Featured Image"  
-                            width={360}
-                            height={279}
+                            fill  
+                            sizes="(max-width: 768px) 100vw, 50vw" 
                         />
+                        </div>
                     </div>
                     <div className="col-md-6 d-flex flex-column justify-content-between align-items-start">
                         <h2 className="m-0 display-5">{title}</h2>
