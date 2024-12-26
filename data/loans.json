@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "images": [
+      "/loan-1.png",
+      "/loan-2.png",
+      "/loan-3.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Uppfödning av bockkillingar på naturbete, Huddinge",
+    "subtitle": "#3990 | Naturbetesbaserad getuppfödning söker rörelsekapital för inköp av fler djur.",
+    "rating": "B",
+    "interest": 0.04,
+    "amount": 500000,
+    "percentage": 45,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 2,
+    "images": [
+      "/loan-2.png",
+      "/loan-1.png",
+      "/loan-3.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Etablering av obemannad gårdsbutik, Bankekind",
+    "subtitle": "#3990 | Investering i gårdsbutik som tillgängliggör försäljning av närproducerade livsmedel.",
+    "rating": "C",
+    "interest": 0.06,
+    "amount": 750000,
+    "percentage": 75,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 3,
+    "images": [
+      "/loan-3.png",
+      "/loan-1.png",
+      "/loan-2.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Lokalproducerad glass, Mjölby",
+    "subtitle": "#3990 | Mjölkproducent söker kapital för tillverkning av lokalproducerad glass med egen mjölk som råvara.",
+    "rating": "B",
+    "interest": 0.04,
+    "amount": 1250000,
+    "percentage": 45,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 4,
+    "images": [
+      "/loan-4.png",
+      "/loan-5.png",
+      "/loan-6.png"
+    ],
+    "fully_subscribed": true,
+    "title": "Reglerbar dränering, Vadstena",
+    "subtitle": "Spannmålsproducent på Vadstenaslätten söker investera i reglerbar dränering på 50 hektar.",
+    "rating": "B",
+    "interest": 0.04,
+    "amount": 1500000,
+    "percentage": 45,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 5,
+    "images": [
+      "/loan-5.png",
+      "/loan-4.png",
+      "/loan-6.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Omställningslån - Jordhälsa, Bjälbo",
+    "subtitle": "Växtodlare söker rörelsekapital för omställning till odlingsmetoder som gynnar jordhälsan.",
+    "rating": "C",
+    "interest": 0.06,
+    "amount": 800000,
+    "percentage": 75,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 6,
+    "images": [
+      "/loan-6.png",
+      "/loan-4.png",
+      "/loan-5.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Bevattningsdamm för bevattning av vall och grönsaker, Fornåsa",
+    "subtitle": "Mjölk- och grönsaksproducent söker kapital till bevattningsdamm för bevattning av vall och grönsaker.",
+    "rating": "B",
+    "interest": 0.03,
+    "amount": 500000,
+    "percentage": 45,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 7,
+    "images": [
+      "/loan-4.png",
+      "/loan-1.png",
+      "/loan-3.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Lorem ipsum dolor sit amet.",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien nec dui suscipit suscipit.",
+    "rating": "D",
+    "interest": 0.07,
+    "amount": 500000,
+    "percentage": 55,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 8,
+    "images": [
+      "/loan-4.png",
+      "/loan-1.png",
+      "/loan-3.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Lorem ipsum dolor sit amet.",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien nec dui suscipit suscipit.",
+    "rating": "D",
+    "interest": 0.07,
+    "amount": 500000,
+    "percentage": 55,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 9,
+    "images": [
+      "/loan-4.png",
+      "/loan-1.png",
+      "/loan-3.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Lorem ipsum dolor sit amet.",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien nec dui suscipit suscipit.",
+    "rating": "D",
+    "interest": 0.07,
+    "amount": 500000,
+    "percentage": 55,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 10,
+    "images": [
+      "/loan-4.png",
+      "/loan-1.png",
+      "/loan-3.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Lorem ipsum dolor sit amet.",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien nec dui suscipit suscipit.",
+    "rating": "D",
+    "interest": 0.07,
+    "amount": 500000,
+    "percentage": 55,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 11,
+    "images": [
+      "/loan-4.png",
+      "/loan-1.png",
+      "/loan-3.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Lorem ipsum dolor sit amet.",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien nec dui suscipit suscipit.",
+    "rating": "D",
+    "interest": 0.07,
+    "amount": 500000,
+    "percentage": 55,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 12,
+    "images": [
+      "/loan-4.png",
+      "/loan-1.png",
+      "/loan-3.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Lorem ipsum dolor sit amet.",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien nec dui suscipit suscipit.",
+    "rating": "D",
+    "interest": 0.07,
+    "amount": 500000,
+    "percentage": 55,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 13,
+    "images": [
+      "/loan-4.png",
+      "/loan-1.png",
+      "/loan-3.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Lorem ipsum dolor sit amet.",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien nec dui suscipit suscipit.",
+    "rating": "D",
+    "interest": 0.07,
+    "amount": 500000,
+    "percentage": 55,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 14,
+    "images": [
+      "/loan-4.png",
+      "/loan-1.png",
+      "/loan-3.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Lorem ipsum dolor sit amet.",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien nec dui suscipit suscipit.",
+    "rating": "D",
+    "interest": 0.07,
+    "amount": 500000,
+    "percentage": 55,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  },
+  {
+    "id": 15,
+    "images": [
+      "/loan-4.png",
+      "/loan-1.png",
+      "/loan-3.png"
+    ],
+    "fully_subscribed": false,
+    "title": "Lorem ipsum dolor sit amet.",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien nec dui suscipit suscipit.",
+    "rating": "D",
+    "interest": 0.07,
+    "amount": 500000,
+    "percentage": 55,
+    "expiration_date": "01-01-2025",
+    "term": 36,
+    "purchase_orders": 995,
+    "text": "<p>Under 2022 expanderar Enöga mat från 200 till 250 getter och investerar dessutom i att kunna lagra in mer av köttet, för att få en jämnare försäljning över året. En satsning som Gårdskapital är glada över att kunna vara med och finansiera.</p><p>Enöga mat, som drivs av Anna och Niklas Sundberg, bedriver en småskalig produktion av naturbeteskött, med fokus på naturvård och biologisk mångfald. De arrenderar marker på ett naturreservat i Huddinge samt på landsort i Stockholms skärgård för att föda upp bockkillingar från olika getgårdar.</p><p>I Sverige äts det en hel del getost, men inte lika mycket getkött. Det leder till att tusentals bockkillingar tyvärr avlivas varje år, eftersom de inte producerar mjölk. Som tur är finns Enöga gård som tar in bockkillingar från andra gårdar och låter de beta. Runt februari föds killingarna ute på de olika getgårdarna där de får dia i någon månad. Framåt maj tas de till Enöga gård där de släpps ut på bete i reservatet. Efter betessäsongen körs getterna till småskaliga slakterier där de sedan paketeras i köttlådor. För att minimera stressen för djuren körs de dit av Anna och Niklas själva på halmade hästsläp. Tack vare Enögas arbete och engagemang skapas en “win-win-win” där getterna får leva vidare en säsong, naturreservatet hålls i skick, och konsumenter får tillgång till ett miljösmart och gott kött.</p>"
+  }
+]
